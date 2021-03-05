@@ -2,4 +2,6 @@
 
 Learning React Native by Building a Foking Weather App
 
-0.5 How does React Native Work? 
+Weather API : https://openweathermap.org/
+
+1.4 Getting the Weather
